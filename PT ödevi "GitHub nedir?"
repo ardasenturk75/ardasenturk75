@@ -1,0 +1,8 @@
+GitHub, bir web tabanlı bir platform olup, yazılım geliştirme süreçlerini kolaylaştırmak ve işbirliği yapmayı desteklemek için kullanılır. İşte GitHub'ın temel işlevleri ve kullanım alanları:
+1. **Versiyon Kontrolü**: GitHub, projelerinizi saklamak, takip etmek ve yönetmek için Git versiyon kontrol sistemini kullanır. Bu sayede kod değişikliklerini kolayca izleyebilir ve yönetebilirsiniz.
+2. **İşbirliği ve Paylaşım**: GitHub, geliştiricilerin projelerini diğerleriyle paylaşmasını ve işbirliği yapmasını sağlar. Çalışma arkadaşlarınızla aynı projede aynı anda çalışabilir ve kodlarınızı bir araya getirebilirsiniz.
+3. **Proje Yönetimi**: GitHub, projelerinizi görevler, sorunlar (issues), projeler ve projeye katkıda bulunanların istatistikleri gibi özelliklerle yönetmenizi sağlar. Bu, projenizin ilerleyişini takip etmenizi kolaylaştırır.
+4. **Open Source (Açık Kaynak) Geliştirme**: Birçok açık kaynak projesi GitHub üzerinde barındırılır. Geliştiriciler, açık kaynak projelerine katkıda bulunabilir veya bu projeleri kullanabilir.
+5. **Dağıtım ve Hosting**: GitHub Pages gibi özelliklerle, statik web siteleri ve dokümantasyonlarınızı yayınlamak için GitHub'ı kullanabilirsiniz. Ayrıca GitHub, GitHub Actions gibi hizmetlerle sürekli entegrasyon ve sürekli dağıtım (CI/CD) süreçlerini otomatize etmenizi sağlar.
+6. **API ve Entegrasyonlar**: GitHub, çeşitli entegrasyonlar ve API'ler aracılığıyla farklı yazılım geliştirme araçlarıyla entegre olmanıza imkan tanır. Bu, süreçleri daha fazla otomatize etmenizi sağlar.
+GitHub, geliştiriciler ve yazılım şirketleri için temel bir araçtır ve açık kaynak toplulukları için önemli bir platformdır. Ayrıca projelerinizi yönetmek, paylaşmak ve işbirliği yapmak için popüler bir seçenektir.
